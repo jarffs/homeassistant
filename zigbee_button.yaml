@@ -9,6 +9,9 @@ blueprint:
       description: The button to configure.
       selector:
         device:
+        device:
+          manufacturer: coolkit
+          model: zigbee_ON_OFF_SWITCH_1000
     press_action:
       name: Press Action
       description: Action to perform on Press.
