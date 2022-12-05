@@ -9,8 +9,8 @@ blueprint:
       description: The button to configure.
       selector:
         device:
-          manufacturer: eWeLink
-          model: WB01
+          manufacturer: coolkit
+          model: zigbee_ON_OFF_SWITCH_1000
     press_action:
       name: Press Action
       description: Action to perform on Press.
